@@ -1,13 +1,12 @@
 <div align="center">
 
-#  ☪ Welcome to my Github! ☪
+#  ☪ Welcome to my Github! ☪ 
 
 
 안녕하세요 SuKyeokRoh 깃허브 주인장 노수혁입니다.<br>
 여기에는 제가 푸는 문제와 공부하는 내용들을 올립니다.<br>
 아직은 많이 부족하지만 최대한 많이 채워나가겠습니다.
 
-<hr>
   
 ### Python
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roh403)](https://solved.ac/roh403/)
@@ -17,7 +16,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roh8389)](https://solved.ac/roh8389/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=roh8389&theme=warm)
 
-<hr>
+
 
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -31,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-<hr>
+
 
 <div>
 
