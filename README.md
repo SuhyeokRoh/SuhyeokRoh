@@ -1,29 +1,82 @@
 <div align="center">
 
-#  ☪ Welcome to my Github! ☪ 
+# Suhyeok Roh
 
-<br>
-안녕하세요 SuHyeokRoh 깃허브 주인장 노수혁입니다.<br>
-여기에는 제가 푸는 문제와 공부하는 내용들을 올립니다.<br>
-아직은 많이 부족하지만 최대한 많이 채워나가겠습니다.<br>
-감사합니다.
+</div>
 
+---
 
-### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py)](https://skillicons.dev)
+### ❯ About
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,flask,vue,notion,figma,git,gitlab,github)](https://skillicons.dev)
+```
+> name       Suhyeok Roh
+> mail       roh8389@gmail.com
+> role       Frontend / Creative Developer
+> focus      3D · Realtime · Interactive
+> exploring  Shaders, WebGPU, Motion
+> base       Seoul, KR · UTC+09:00
+```
 
+---
 
-<br>
+### ❯ Stack
 
-<div>
+**3D / Graphics**
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+</p>
 
-<a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=SuhyeokRoh&theme=grassland&userFetchType=mutual" width="600px" />
-</a>
+**Realtime**
+<p>
+  <img src="https://img.shields.io/badge/WebSocket-4353FF?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuHyeokRoh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuHyeokRoh&layout=compact&theme=radical)](https://github.com/SuHyeokRoh/github-readme-stats)
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-35495E?style=flat-square&logo=next.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+---
+
+### ❯ Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuhyeokRoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyeokRoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhyeokRoh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" height="165" />
+
+</div>
+
+<div align="center">
+
+<sub>`night 🦉 · shipping pixels from Daejeon`</sub>
 
 </div>
