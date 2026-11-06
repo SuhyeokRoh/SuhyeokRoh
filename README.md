@@ -4,7 +4,6 @@
 
 </div>
 
----
 
 ### ❯ About
 
@@ -64,19 +63,8 @@
 
 ### ❯ Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuhyeokRoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyeokRoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&langs_count=8" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhyeokRoh&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" height="165" />
 
 </div>
 
-<div align="center">
-
-<sub>`night 🦉 · shipping pixels from Daejeon`</sub>
-
-</div>
